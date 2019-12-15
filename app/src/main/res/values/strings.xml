@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NO_7TextView</string>
+    <string name="user_id">UserId</string>
+    <string name="password">Password</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">CANCEL</string>
+</resources>
